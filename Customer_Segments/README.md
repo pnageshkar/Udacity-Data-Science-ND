@@ -1,4 +1,4 @@
-# Content: Unsupervised Learning
+# Data Science Project - Clustering / PCA
 ## Project: Creating Customer Segments
 
 ### Install
